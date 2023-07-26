@@ -17,13 +17,6 @@
   <a href="https://github.com/alaaNfissi/Unveiling-the-Hidden-Factors-Explainable-AI-for-Feature-Boosting-in-Speech-Emotion-Recognition"><strong>Explore the docs »</strong></a>
 </div>  
 
- 
-<div align="center">
-
-[![view - Documentation](https://github.com/alaaNfissi/Unveiling-the-Hidden-Factors-Explainable-AI-for-Feature-Boosting-in-Speech-Emotion-Recognition/README.md "Go to project documentation")
-
-</div>  
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
