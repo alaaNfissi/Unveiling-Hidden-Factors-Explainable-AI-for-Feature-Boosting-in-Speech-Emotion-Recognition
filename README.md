@@ -34,7 +34,7 @@
     <li>
       <a href="#results">Results</a>
       <ul>
-        <li><a href="#on-tess-dataset">On TESS and EMO-DB datasets</a></li>
+        <li><a href="#on-tess-and-emodb-dataset">On TESS and EMO-DB datasets</a></li>
       </ul>
     </li>
     <li><a href="#contributing">Contributing</a></li>
