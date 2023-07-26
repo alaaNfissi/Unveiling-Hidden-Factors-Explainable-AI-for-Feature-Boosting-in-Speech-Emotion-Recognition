@@ -1,0 +1,7 @@
+pycaret==2.3.6
+praat-parselmouth
+librosa
+pca
+statsmodels --upgrade
+shap
+numba==0.53
