@@ -51,7 +51,7 @@ most_important_names_list = list(df_original.drop(columns=['class']).columns.uni
 flag = True
 while flag:
     df = df_original[most_important_names_list+['class']]
-    saved_cols, pot_cols_list = select_feature_combinations(df, 0, int(len(most_important_names_list)*3), 20)
+    saved_cols, pot_cols_list = select_feature_combinations(df, 0, int(len(most_important_names_list)*10), 20)
     print(len(list(saved_cols)))
     print(df.columns)
     boosted_dataset = boosted_dataset_construction(saved_cols, df)
