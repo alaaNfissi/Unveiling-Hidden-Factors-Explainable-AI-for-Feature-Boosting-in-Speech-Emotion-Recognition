@@ -4,17 +4,17 @@
 <br />
 
 <div align="center">
- <a href="https://github.com/alaaNfissi/Unveiling-the-Hidden-Factors-Explainable-AI-for-Feature-Boosting-in-Speech-Emotion-Recognition">
+ <a href="https://github.com/alaaNfissi/Unveiling-Hidden-Factors-Explainable-AI-for-Feature-Boosting-in-Speech-Emotion-Recognition">
    <img src="images/logo.png" alt="Logo" width="80" height="80">
  </a>
 
- <h3 align="center">Unveiling the Hidden Factors: Explainable AI for Feature Boosting in Speech Emotion Recognition</h3>
+ <h3 align="center">Unveiling Hidden Factors: Explainable AI for Feature Boosting in Speech Emotion Recognition</h3>
 
  <p align="center">
    This paper has been submitted for publication in IEEE Transactions on Artificial Intelligence (IEEE-TAI).
    <br />
   </p>
-  <a href="https://github.com/alaaNfissi/Unveiling-the-Hidden-Factors-Explainable-AI-for-Feature-Boosting-in-Speech-Emotion-Recognition"><strong>Explore the docs »</strong></a>
+  <a href="https://github.com/alaaNfissi/Unveiling-Hidden-Factors-Explainable-AI-for-Feature-Boosting-in-Speech-Emotion-Recognition"><strong>Explore the docs »</strong></a>
 </div>  
 
 <!-- TABLE OF CONTENTS -->
@@ -89,7 +89,7 @@ You can download a copy of all the files in this repository by cloning the
 
     git clone https://github.com/alaaNfissi/Unveiling-the-Hidden-Factors-Explainable-AI-for-Feature-Boosting-in-Speech-Emotion-Recognition.git
 
-or [download a zip archive](https://github.com/alaaNfissi/Unveiling-the-Hidden-Factors-Explainable-AI-for-Feature-Boosting-in-Speech-Emotion-Recognition/archive/refs/heads/main.zip).
+or [download a zip archive](https://github.com/alaaNfissi/Unveiling-Hidden-Factors-Explainable-AI-for-Feature-Boosting-in-Speech-Emotion-Recognition/archive/refs/heads/main.zip).
 
 ### Dependencies
 
