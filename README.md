@@ -11,7 +11,7 @@
  <h3 align="center">Unveiling Hidden Factors: Explainable AI for Feature Boosting in Speech Emotion Recognition</h3>
 
  <p align="center">
-   This paper has been submitted for publication in IEEE Transactions on Artificial Intelligence (IEEE-TAI).
+   This paper has been submitted for publication in Springer Applied Intelligence (APIN).
    <br />
   </p>
   <a href="https://github.com/alaaNfissi/Unveiling-Hidden-Factors-Explainable-AI-for-Feature-Boosting-in-Speech-Emotion-Recognition"><strong>Explore the docs »</strong></a>
