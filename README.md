@@ -58,7 +58,7 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[model-architecture]: images/XAI_new.png
+[model-architecture]: images/XAI.png
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
